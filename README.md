@@ -5,7 +5,7 @@ An extremely polished, responsive, and interactive Service Listing Page featurin
 ---
 
 ## 🔗 Live Deployments & Preview Links
-* **Vercel / Production Deployment Placeholder: https://nex-service-digital-agency.vercel.app/
+ Vercel / Production Deployment Placeholder: https://nex-service-digital-agency.vercel.app/
 
 ---
 
@@ -53,7 +53,7 @@ An extremely polished, responsive, and interactive Service Listing Page featurin
   * `/components/BookingModal.tsx` acts as an independent wrapper, managing document overlays, backdrop blur styles, and key listeners.
 
 ### 3. State Management
-* Avoided bloated external global states (e.g., Redux, Zustand) to avoid overhead. Leveraged **localized React useState hooks** that propagate booking requests downward via predictable callbacks. This ensures zero unwanted re-renders.
+* Avoided bloated external global states (Redux, Zustand) to avoid overhead. Leveraged **localized React useState hooks** that propagate booking requests downward via predictable callbacks. This ensures zero unwanted re-renders.
 
 ### 4. Form Validation Strategy
 * Implemented a custom validation strategy without heavy third-party libraries (such as Formik or Yup) to keep the initial asset weight low:
