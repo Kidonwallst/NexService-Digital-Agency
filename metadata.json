@@ -1,0 +1,6 @@
+{
+  "name": "Services Listing Page",
+  "description": "A elegant and production-ready service listing page with a responsive grid of services, interactive booking modal, and custom contact form validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

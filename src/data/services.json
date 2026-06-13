@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "description": "Crafting high-performance, responsive web applications built with the latest technologies. We focus on clean code, modern animations, and seamless user experiences tailored to your business needs.",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&h=300&q=80"
+  },
+  {
+    "id": 2,
+    "title": "UI/UX Design",
+    "description": "Designing intuitive and visually beautiful digital interfaces that captivate your audience. We conduct user research, wireframing, and interactive prototyping to ensure optimal ease-of-use and engagement.",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1561070791-26c113006238?auto=format&fit=crop&w=400&h=300&q=80"
+  },
+  {
+    "id": 3,
+    "title": "SEO Optimization",
+    "description": "Boost your search engine visibility and drive consistent organic traffic to your website. Our comprehensive optimization includes high-impact keyword research, technical SEO audits, and content enhancement strategies.",
+    "price": 599,
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=400&h=300&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Cloud Consulting",
+    "description": "Deploy, manage, and scale your applications securely in modern cloud environments. We design robust cloud infrastructure, migrate legacy systems, and optimize operating costs to future-proof your tech stack.",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=400&h=300&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Mobile App Development",
+    "description": "Building powerful, feature-rich iOS and Android mobile applications. Our cross-platform solutions ensure native-grade performance, fluid transitions, and cohesive user journeys on any mobile screen.",
+    "price": 2499,
+    "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=400&h=300&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Cybersecurity Audit",
+    "description": "Protect your digital assets with an end-to-end security assessment. We perform deep vulnerability scanning, secure code reviews, and threat modeling to identify and fortify potential penetration points.",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=400&h=300&q=80"
+  }
+]
