@@ -5,8 +5,7 @@ An extremely polished, responsive, and interactive Service Listing Page featurin
 ---
 
 ## 🔗 Live Deployments & Preview Links
-* **Iframe Development URL:** [https://ais-dev-kvrvr2v2zhqdzuojbwialt-711470764206.europe-west2.run.app](https://ais-dev-kvrvr2v2zhqdzuojbwialt-711470764206.europe-west2.run.app)
-* **Vercel / Production Deployment Placeholder:** `[Your Vercel Deployment URL]`
+* **Vercel / Production Deployment Placeholder: https://nex-service-digital-agency.vercel.app/
 
 ---
 
